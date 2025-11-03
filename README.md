@@ -7,5 +7,5 @@
 
 ## Usage
 
-1. run `node server.js`
+1. run `npm run dev`
 2. Navigate to `localhost:8000`
